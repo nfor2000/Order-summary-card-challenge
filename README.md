@@ -25,7 +25,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 ![FireShot Capture 010 - Frontend Mentor - Order summary card - 127 0 0 1](https://user-images.githubusercontent.com/124421807/220206134-82a13443-c2e8-4c39-9704-43fd03d281b3.png)
 
 ### links
-
+ [Live site](https://nfor2000.github.io/Order-summary-card-challenge/)
 ### Built with
 
 
