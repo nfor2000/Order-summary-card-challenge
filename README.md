@@ -19,7 +19,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 
 ### links
- [Live site](https://nfor2000.github.io/Order-summary-card-challenge/)
+ [Live site]( https://nfor2000.github.io/Order-summary-card-challenge/)
 ### Built with
 
 
