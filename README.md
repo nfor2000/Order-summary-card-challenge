@@ -11,18 +11,12 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
-## Overview
-
-
 
 ### Screenshot
 
-![FireShot Capture 011 - Frontend Mentor - Order summary card - 127 0 0 1](https://user-images.githubusercontent.com/124421807/220206121-d394bd1a-ea86-4c30-94e9-94085b34e354.png)
+![Web capture_27-4-2023_13299_](https://user-images.githubusercontent.com/124421807/234862365-e2919fec-a876-408f-8c75-a628cfa7a90c.jpeg)
+![Web capture_27-4-2023_132953_](https://user-images.githubusercontent.com/124421807/234862422-6dcfad4b-592e-447a-a601-f5f98f8876a3.jpeg)
 
-
-![FireShot Capture 010 - Frontend Mentor - Order summary card - 127 0 0 1](https://user-images.githubusercontent.com/124421807/220206134-82a13443-c2e8-4c39-9704-43fd03d281b3.png)
 
 ### links
  [Live site](https://nfor2000.github.io/Order-summary-card-challenge/)
@@ -32,7 +26,6 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- Media query
 
 
 ## Author
